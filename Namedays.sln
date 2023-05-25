@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uniza.Namedays", "Uniza.Namedays\Uniza.Namedays.csproj", "{402813BD-0D3D-44F8-9C1F-B5625185B9F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Namedays", "Uniza.Namedays\Namedays.csproj", "{402813BD-0D3D-44F8-9C1F-B5625185B9F9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewerConsoleApp", "ViewerConsoleApp\ViewerConsoleApp.csproj", "{9CDADC3A-0294-4AAA-9BCD-DE944402092C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorGuiApp", "EditorGuiApp\EditorGuiApp.csproj", "{85638334-02C1-4267-8193-2EA7876415E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditorGuiApp", "EditorGuiApp\EditorGuiApp.csproj", "{85638334-02C1-4267-8193-2EA7876415E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

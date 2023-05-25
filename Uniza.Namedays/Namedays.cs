@@ -10,6 +10,7 @@ using System;
 namespace Uniza.Namedays
 {
 	
+	
 	/// Reprezentuje deň a mesiac.
 	public record struct DayMonth
 	{

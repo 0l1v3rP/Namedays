@@ -20,7 +20,6 @@ namespace EditorGuiApp
 	public partial class DeleteWindow : Window
 	{
 		public bool ConfirmDelete { get; private set; }
-		private string name_;
 
 		public DeleteWindow(string name_)
 		{
